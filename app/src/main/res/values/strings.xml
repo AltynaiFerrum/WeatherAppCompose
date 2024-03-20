@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherAppCompose</string>
+    <string name="city_name">New York\n</string>
+</resources>
